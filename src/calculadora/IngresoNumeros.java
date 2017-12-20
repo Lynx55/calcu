@@ -17,6 +17,7 @@ public class IngresoNumeros {
             
          int x;
          int y;
+       int z;
        
          //ingreso primer numero
 
